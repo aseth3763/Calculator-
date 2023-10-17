@@ -1,0 +1,39 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+html , body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Lora', serif;
+    background-color: grey;
+}
+
+
+
+
+.button {
+    width: 60px;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px soli black;
+    border-radius: 9px;
+    cursor: pointer;  
+    background-color: black;
+    color: wheat;
+}
+
+.row {
+    margin: 8px 0px;
+}
+
+.row-input {
+    margin: 0;
+    width: 295x;
+    padding: 10px 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 19px ;
+    background-color: blanchedalmond;    
+}
+
